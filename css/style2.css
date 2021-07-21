@@ -1,0 +1,61 @@
+body {
+    direction: rtl;
+    text-align: right !important;
+    line-height: 1.6;
+    background-color: #E9EAEC;
+}
+
+.carousel-image-1 {
+    background: url("../img/slider1.jpg") center center/cover;
+}
+
+.carousel-image-2 {
+    background: url("../img/slider2.jpg") center center/cover;
+}
+
+.carousel-image-3 {
+    background: url("../img/slider3.jpg") center center/cover;
+}
+
+.ekko-lightbox-nav-overlay a:last-child span {
+    text-align: left !important;
+}
+
+.bg-bgray {
+    background-color: #90ADC6;
+}
+
+.bg-bluedark {
+    background-color: #333652;
+}
+
+.navbar {
+    background-color: #333652;
+}
+
+.logo img {
+    width: 150px;
+    height: 110px;
+}
+
+.bg-foot {
+    background-color: #333652;
+}
+
+.borderCounter {
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+}
+
+#coming1 {
+    height: 100vh;
+    background:  url(../img/bg.jpg) center center/cover;
+}
+
+#coming2 {
+    height: 100vh;
+    background:  url(../img/bg.jpg) center center/cover;
+}
